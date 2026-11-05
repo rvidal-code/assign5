@@ -11,7 +11,7 @@ import yfinance as yf
 import pandas as pd
 
 # Define the ticker and risk-free rate
-ticker = 'MSFT'
+ticker = 'AAPL'
 rf_monthly = 0.0025  # 0.25% per month
 
 # Download monthly stock price data for the past 5 years
